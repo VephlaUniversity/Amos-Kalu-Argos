@@ -1,0 +1,414 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+}
+a {
+  color: #333333;
+  text-decoration: none;
+}
+.container {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #f5f5f5;
+  padding: 0px 15px 8px;
+}
+.first {
+  color: #333333;
+  padding-top: 4px;
+  margin-right: 2pc;
+  position: relative;
+  text-decoration: none;
+}
+.second {
+  color: #333333;
+  padding-top: 4px;
+  margin-right: 1pc;
+  position: relative;
+  text-decoration: none;
+}
+.o {
+  border-left: 1px solid #333333;
+  height: 25px;
+  float: left;
+  margin-right: 2.2pc;
+  margin-top: 2px;
+}
+.see {
+  position: absolute;
+  top: 3px;
+  right: 4pc;
+}
+.se {
+  position: absolute;
+  top: 4px;
+  right: 3pc;
+}
+.container1 {
+  padding-top: 2pc;
+  padding-left: 1pc;
+}
+.flex-items {
+  display: flex;
+  justify-content: space-between;
+  line-height: 2;
+}
+
+.confused {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 1pc;
+  margin-top: -1.7pc;
+}
+._20hv0:hover {
+  color: red;
+}
+._20hv0 {
+  padding-right: 1pc;
+  text-decoration: none;
+  color: #333333;
+}
+.input {
+  display: inline-flex;
+  width: 486.83px;
+  height: 44px;
+  border: 1px solid #333333;
+  padding-bottom: 2px;
+}
+input {
+  width: 450.83px;
+  height: 42px;
+  border: none;
+}
+.-wer:hover {
+  color: red;
+}
+
+.button {
+  width: 90px;
+  height: 43px;
+  background-color: #707070;
+  color: #ffffff;
+  border: none;
+  padding: 0px 3px 0px 19px;
+}
+input:focus{
+  outline: none;
+}
+.fa-solid {
+  padding-top: 1pc;
+  padding-right: 1pc;
+  padding-left: 1pc;
+}
+.-wer {
+  padding: left 40px;
+}
+
+.dropdown:hover {
+  border-bottom: 2px solid red;
+  padding-top: -2pc;
+}
+.cooks:hover {
+  border-bottom: 2px solid red;
+}
+.container2 {
+  display: flex;
+  justify-content: center;
+  line-height: 1.2rem;
+  padding-top: 1pc;
+}
+.wpo {
+  position: relative;
+  margin-right: 4pc;
+}
+.v {
+  position: absolute;
+  left: -2pc;
+}
+.ogjg {
+  position: relative;
+}
+.vgy {
+  position: absolute;
+  left: -2pc;
+}
+.urfnj {
+  position: relative;
+}
+.vrf {
+  position: absolute;
+  left: -2pc;
+}
+.a {
+  border-left: 1px solid #333333;
+  height: 25px;
+  float: left;
+  margin-right: 7pc;
+  margin-top: 2px;
+}
+.b {
+  border-left: 1px solid #333333;
+  height: 25px;
+  float: left;
+  margin-right: 6pc;
+  margin-top: 2px;
+}
+.container3 {
+  padding-left: 2pc;
+  padding-top: 2pc;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  overflow-x: scroll;
+  width: 100%;
+  height: 50%;
+}
+.kloyw {
+  padding-left: 1rem;
+}
+.add {
+  position: absolute;
+  z-index: -1;
+  top: -2pc;
+}
+.oop {
+  display: flex;
+  justify-content: center;
+  margin-top: -27pc;
+}
+.we {
+  margin-right: 1pc;
+}
+.me {
+  margin-left: 1pc;
+}
+.qw {
+  color: #375ea9;
+  text-decoration: underline;
+}
+.fgh {
+  margin-top: 56pc;
+  justify-content: center;
+  display: flex;
+}
+.banner-offer {
+  background-color: #d42114;
+  color: #ffffff;
+  margin-left: 7.6pc;
+  height: 67.98px;
+  margin-top: 2pc;
+  margin-bottom: 2pc;
+  width: 1110px;
+  font-size: larger;
+}
+.ajki {
+  display: flex;
+  justify-content: center;
+}
+.banner {
+  background-color: #39134c;
+  color: #ffffff;
+  margin-left: 7.6pc;
+  height: 67.98px;
+  margin-top: 2pc;
+  margin-bottom: 2pc;
+  width: 1110px;
+  font-size: x-large;
+}
+a:hover {
+  color: #1c3769;
+}
+.igyg {
+  display: flex;
+  margin-top: 1pc;
+  background-color: #f2f2f2;
+  padding-top: 2pc;
+  margin-left: 7pc;
+  margin-right: 7pc;
+}
+.gh {
+  margin-left: 3pc;
+}
+.hk {
+  margin-left: 2pc;
+  padding-top: 7pc;
+}
+.btn {
+  padding: 0.7pc 1pc;
+  border: 2px solid black;
+}
+.btn:hover {
+  padding: 0.7pc 1pc;
+  color: #ffffff;
+  background-color: black;
+  border: 2px solid;
+}
+
+.jh {
+  color: white;
+}
+.banners {
+  background-color: #39134c;
+  width: 1134px;
+  height: 210px;
+  display: flex;
+  justify-content: center;
+  margin-left: 7pc;
+  margin-top: 1pc;
+  padding-top: 3pc;
+  margin-bottom: 2pc;
+}
+.banners:hover {
+  background-color: black;
+}
+.btn1 {
+  padding: 8px 11px;
+  margin-left: 13pc;
+  margin-top: 0.6pc;
+  background-color: #ffffff;
+  color: #39134c;
+  border: none;
+}
+.btn1:hover {
+  color: #ffffff;
+  background-color: #39134c;
+}
+.lsdfg {
+  text-align: center;
+}
+.hfg {
+  display: flex;
+  justify-content: center;
+}
+.yuet {
+  background-color: rgb(108, 167, 226);
+  margin-top: 5pc;
+  display: flex;
+  justify-content: center;
+  padding-top: 0.6pc;
+}
+.utg {
+  display: flex;
+  padding: 1pc;
+}
+.inp {
+  width: 350px;
+  height: 44px;
+  padding: 8px 100px 8px 16px;
+  border-radius: 5px;
+}
+.btn2 {
+  margin-left: -5pc;
+  z-index: 1;
+  background-color: rgb(108, 167, 226);
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  padding-right: 1pc;
+  padding-left: 1pc;
+}
+.fiet {
+  background-color: rgb(216, 216, 216);
+}
+.hdfd {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 3pc;
+}
+.tr {
+  font-size: 15px;
+  padding-top: 24px;
+}
+.tr:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.fsh {
+  display: flex;
+  padding-top: 2pc;
+}
+.fety {
+  border: 0.01px solid gray;
+  text-align: center;
+  width: 675.5px;
+  height: 146px;
+  padding-top: 2pc;
+}
+.jhj {
+  border: 0.01px solid gray;
+  text-align: center;
+  width: 675.5px;
+  height: 146px;
+}
+.ppo {
+  border: 0.01px solid gray;
+  text-align: center;
+  width: 675.5px;
+  height: 146px;
+  padding-top: 1.2pc;
+}
+.rdf {
+  display: flex;
+  justify-content: center;
+  padding: 1pc 0pc 0.6pc 0pc;
+}
+.sddfg {
+  display: flex;
+  justify-content: center;
+}
+.sds {
+  border: 0.01px solid gray;
+  width: 675.5px;
+  height: 146px;
+}
+.kk {
+  display: flex;
+  justify-content: center;
+}
+.tt {
+  display: flex;
+  flex-direction: column;
+}
+.fd {
+  display: flex;
+  flex-direction: column;
+}
+.md-12 {
+  padding-top: 1pc;
+}
+.ghw {
+  padding-left: 10px;
+}
+.p {
+  padding-top: 1pc;
+}
+.yure {
+  display: flex;
+  justify-content: center;
+  padding-top: 2pc;
+}
+.ase {
+  margin: 0px 15px;
+}
+.kju {
+  display: flex;
+  justify-content: center;
+  padding-top: 1pc;
+  color: #262626;
+}
+.erty {
+  padding-left: 1pc;  
+  font-size: 14px;
+}
+.erty::before {
+  border-left: 2px solid rgb(216, 216, 216);
+  content: "";
+  display: inline-block;
+  height: 15px;
+  margin-right: 10px;
+}
+.dsg {
+  margin-top: 1pc;
+  color: #262626;
+  padding-bottom: 2pc;
+}
